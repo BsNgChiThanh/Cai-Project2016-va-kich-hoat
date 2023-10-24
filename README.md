@@ -1,6 +1,6 @@
 # CÀI ĐẶT PROJECT 2016 VÀ KÍCH HOẠT VĨNH VIỄN #
 ## CÀI ĐẶT PROJECT 2016 ##
-  - Download file cài đặt PROJECT 2016 [tại đây](https://drive.google.com/file/d/1nuJpTCSczc6tr15lAetS4Wn75EshUTy9/view) hoặc [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EYz7TNxGRdVHtr9F7Dqe23kBYdYL0_a06yF2HcNqe-HEXw?e=y2rM9m) Mật khẩu giải nén: PITVNcommunity. Mật khẩu cũ PITVN.
+  - Download file cài đặt PROJECT 2016 [tại đây](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProjectProRetail.img) hoặc [tại đây](https://drive.google.com/file/d/1nuJpTCSczc6tr15lAetS4Wn75EshUTy9/view) hoặc [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EYz7TNxGRdVHtr9F7Dqe23kBYdYL0_a06yF2HcNqe-HEXw?e=y2rM9m) Mật khẩu giải nén: PITVNcommunity. Mật khẩu cũ PITVN.
   - ![image](https://github.com/BsNgChiThanh/Cai-Project2016-va-kich-hoat/assets/82578024/302a9545-c97a-41fa-bff0-fb4731e49f78)
   - ![image](https://github.com/BsNgChiThanh/Cai-Project2016-va-kich-hoat/assets/82578024/62c39cba-bd30-4afe-87c1-ca2ac23d3a67)
   - ![image](https://github.com/BsNgChiThanh/Cai-Project2016-va-kich-hoat/assets/82578024/5ae8ce3f-e460-495e-ac72-b43570a12809)
