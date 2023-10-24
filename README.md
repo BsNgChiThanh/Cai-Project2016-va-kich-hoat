@@ -1,6 +1,6 @@
 # CÀI ĐẶT PROJECT 2016 VÀ KÍCH HOẠT VĨNH VIỄN #
 ## CÀI ĐẶT PROJECT 2016 ##
-  - Download file cài đặt PROJECT 2016 [tại đây]() hoặc [tại đây]() Mật khẩu giải nén: PITVNcommunity. Mật khẩu cũ PITVN.
+  - Download file cài đặt PROJECT 2016 [tại đây](https://drive.google.com/file/d/1nuJpTCSczc6tr15lAetS4Wn75EshUTy9/view) hoặc [tại đây]() Mật khẩu giải nén: PITVNcommunity. Mật khẩu cũ PITVN.
   - ![image](https://github.com/BsNgChiThanh/Cai-Project2016-va-kich-hoat/assets/82578024/302a9545-c97a-41fa-bff0-fb4731e49f78)
   - ![image](https://github.com/BsNgChiThanh/Cai-Project2016-va-kich-hoat/assets/82578024/62c39cba-bd30-4afe-87c1-ca2ac23d3a67)
   - ![image](https://github.com/BsNgChiThanh/Cai-Project2016-va-kich-hoat/assets/82578024/5ae8ce3f-e460-495e-ac72-b43570a12809)
